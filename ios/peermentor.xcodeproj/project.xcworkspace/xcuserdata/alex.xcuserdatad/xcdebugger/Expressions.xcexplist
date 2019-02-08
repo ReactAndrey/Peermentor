@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__33-[RCTBatchedBridge handleBuffer:]_block_invoke416:RCTBatchedBridge.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "paramsArrays[index]">
+            </PersistentString>
+            <PersistentString
+               value = "paramsArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RCTHTTPRequestHandler sendRequest:withDelegate:]:RCTHTTPRequestHandler.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/MACDATA/Work/Projects/2_Progress/Nikee/Peermentor/android/app/build/intermediates/exploded-aar/peermentor/com.lwansbrough.ReactCamera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c448553ae2bf200eb8bae2072742d452055d8089">
+        <dex dex="/Volumes/MACDATA/Work/Projects/2_Progress/Nikee/Peermentor/android/app/build/intermediates/pre-dexed/debug/classes-b0e0dd401a60315b9c45fb18ee32a65dfff499f4.jar" />
+    </item>
+
+</items>
